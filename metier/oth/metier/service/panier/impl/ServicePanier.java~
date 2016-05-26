@@ -1,0 +1,36 @@
+package grpb.metier.service.panier.impl;
+
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Propagation;
+import org.springframework.transaction.annotation.Transactional;
+
+import grpb.metier.service.AbstractService;
+import grpb.metier.service.panier.IServicePanier;
+import grpb.presentation.dto.panier.PanierDto;
+
+/**
+ * Implémentation du service métier panier.
+ * 
+ * @author badane
+ *
+ */
+@Service("servicePanier")
+@Transactional(propagation = Propagation.REQUIRED)
+public class ServicePanier extends AbstractService implements IServicePanier {
+
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see grpb.metier.service.panier.IServicePanier#getRemisePanier(grpb.
+	 * presentation.dto.panier.PanierDto)
+	 */
+	@Override
+	public Double getRemisePanier(final PanierDto panierDto) {
+
+		if (panierDto.getContenu().size() >= 5) {
+			return panierDto.getPrixTotal() * 0.1;
+		}
+		return 0.0;
+	}
+
+}

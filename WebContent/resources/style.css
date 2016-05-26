@@ -1,0 +1,53 @@
+.error {
+	color: #ff0000;
+}
+
+.errorblock {
+	color: #000;
+	background-color: #ffEEEE;
+	border: 3px solid #ff0000;
+	padding: 8px;
+	margin: 16px;
+}
+
+.informationBlock {
+	color: #000;
+	background-color: #9AFF9A;
+	border: 3px solid #00CD00;
+	padding: 8px;
+	margin: 16px;
+}
+
+.rouge{
+	color:red;
+	font-weight : bold;
+	font-size:16px;	
+	padding: 8px;
+	margin: 16px;
+}
+
+.bleu{
+	color:blue;
+	font-weight : bold;
+	font-size:20px;	
+	padding: 8px;
+	margin: 16px;
+}
+
+.tabl {
+	float: right;
+}
+
+.tdtable{
+	
+	padding:20px; 
+}
+
+.gauche{
+    float:left;
+    width:70%;
+}
+
+.droite {
+    margin-left:40%   
+}
