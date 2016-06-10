@@ -25,7 +25,7 @@ import oth.presentation.dto.commande.bean.CommandeDto;
 /**
  * Implémentation du service métier commande.
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @Service("serviceCommande")

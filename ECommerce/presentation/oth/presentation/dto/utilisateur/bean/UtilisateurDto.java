@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * DTO d'un utilisateur.
  * 
- * @author badan
+ * @author Phil9175
  *
  */
 public class UtilisateurDto {

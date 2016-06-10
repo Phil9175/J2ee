@@ -20,7 +20,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Dao du produit.
  * 
- * @author badane.
+ * @author Phil9175.
  * 
  */
 @Repository("ProduitDao")

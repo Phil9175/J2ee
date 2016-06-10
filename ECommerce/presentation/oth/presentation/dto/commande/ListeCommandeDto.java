@@ -7,7 +7,7 @@ import oth.presentation.dto.commande.bean.CommandeDto;
 /**
  * DTO d'une liste de commande.
  * 
- * @author  badane
+ * @author  Phil9175
  *
  */
 public class ListeCommandeDto {

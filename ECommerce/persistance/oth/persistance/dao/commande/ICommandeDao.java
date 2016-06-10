@@ -9,7 +9,7 @@ import oth.persistance.exception.DaoException;
 /**
  * Interface du Dao de commande.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public interface ICommandeDao extends IGenericDao<CommandeDo> {

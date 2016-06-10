@@ -9,7 +9,7 @@ import oth.presentation.dto.commande.ValiderCommandeDto;
 /**
  * Validateur du formulaire ValiderCommande.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Component

@@ -27,7 +27,7 @@ import oth.presentation.validator.ProduitValidator;
 /**
  * Controlleur pour l'écran de modification d'un produit.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

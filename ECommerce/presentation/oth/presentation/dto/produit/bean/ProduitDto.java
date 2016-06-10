@@ -8,7 +8,7 @@ import javax.validation.constraints.Size;
 /**
  * DTO d'un produit.
  * 
- * @author badane 
+ * @author Phil9175 
  *
  */
 public class ProduitDto {

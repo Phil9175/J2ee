@@ -3,7 +3,7 @@ package oth.metier.service;
 /**
  * Classe abstraite pour les réponses de services.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public abstract class AbstractService {

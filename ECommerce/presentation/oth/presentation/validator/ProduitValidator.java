@@ -9,7 +9,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * Validateur du formulaire Produit
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Component

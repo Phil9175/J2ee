@@ -3,7 +3,7 @@ package oth.presentation.dto.tri;
 /**
  * Classe pour le type de tri.
  * 
- * @author badane 
+ * @author Phil9175 
  *
  */
 public class SortByType {

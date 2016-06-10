@@ -17,7 +17,7 @@ import oth.presentation.validator.ListeUtilisateurValidator;
 /**
  * Test de ListeUtilisateurValidator
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class ListeUtilisateurTest {

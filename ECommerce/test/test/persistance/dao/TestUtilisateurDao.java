@@ -35,7 +35,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Class de test pour le UtilisateurDao
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)

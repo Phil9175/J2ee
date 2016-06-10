@@ -15,7 +15,7 @@ import oth.presentation.validator.EditInfoPersoByAdminValidator;
 /**
  * Test de EditInfoPersoByAdminValidator
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class EditInfoPersoByAdminTest {

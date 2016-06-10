@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * DTO de l'édition d'information personnelles.
  * 
- * @author badan
+ * @author Phil9175
  *
  */
 public class EditInfoPersoDto {

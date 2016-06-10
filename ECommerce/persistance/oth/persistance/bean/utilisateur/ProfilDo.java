@@ -15,7 +15,7 @@ import javax.validation.constraints.Size;
 /**
  * DO associé à la table profil.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Entity(name = "ProfilDo")

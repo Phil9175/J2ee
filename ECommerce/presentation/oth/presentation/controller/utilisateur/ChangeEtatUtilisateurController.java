@@ -19,7 +19,7 @@ import oth.presentation.validator.ConnexionValidator;
 /**
  * Controller pour changer l'état d'un utilisateur
  * 
- * @author badan
+ * @author Phil9175
  *
  */
 @Controller

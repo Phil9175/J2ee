@@ -10,7 +10,7 @@ import oth.presentation.dto.panier.bean.ElementPanierDto;
 /**
  * Mapper des DTO liés au panier.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 

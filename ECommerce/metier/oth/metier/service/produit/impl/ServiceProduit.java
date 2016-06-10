@@ -23,7 +23,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Implémentation du service métier produit.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Service("serviceProduit")

@@ -28,7 +28,7 @@ import oth.presentation.validator.EditInfoPersoValidator;
 /**
  * Controlleur pour l'écran de modification d'utilisateur.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

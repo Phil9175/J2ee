@@ -28,7 +28,7 @@ import oth.presentation.validator.InscriptionValidator;
 /**
  * Controlleur pour l'écran d'inscription.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 

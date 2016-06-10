@@ -18,7 +18,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * Controlleur pour l'écran d'affichage du compte.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

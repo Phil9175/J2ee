@@ -8,7 +8,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * DTO d'une commande.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class CommandeDto {

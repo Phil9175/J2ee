@@ -29,7 +29,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
  * Cette classe permet de tester les fonctions implémentées dans la classe
  * MapperCommande
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)

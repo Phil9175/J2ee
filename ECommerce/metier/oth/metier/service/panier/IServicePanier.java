@@ -5,7 +5,7 @@ import oth.presentation.dto.panier.PanierDto;
 /**
  * Interface du service métier panier.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public interface IServicePanier {

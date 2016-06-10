@@ -12,7 +12,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Validateur pour l'affichage de la liste des produits
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Component

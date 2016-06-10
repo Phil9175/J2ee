@@ -19,7 +19,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * Cette classe teste les fonctions de la classe MapperPanier
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)

@@ -20,7 +20,7 @@ import oth.presentation.validator.ListeProduitValidator;
 /**
  * Test de ListeProduitValidator
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class ListeProduitTest {

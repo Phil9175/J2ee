@@ -9,7 +9,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * DTO pour la liste des produits.
  * 
- * @author badane 
+ * @author Phil9175 
  *
  */
 public class ListeProduitDto {

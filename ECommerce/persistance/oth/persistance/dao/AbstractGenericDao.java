@@ -19,7 +19,7 @@ import oth.persistance.exception.DaoException;
 /**
  * Classe abstraite d'un dao générique pour le CRUD.
  * 
- * @author badane
+ * @author Phil9175
  *
  * @param <T>
  *            La classe de l'objet à persister.

@@ -20,7 +20,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Controlleur pour l'écran de gestion des produits.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * Classe de fonction utilitaires.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public abstract class Utility {

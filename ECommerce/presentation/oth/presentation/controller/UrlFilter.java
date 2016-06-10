@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Filtre d'url pour la page courrange.
  * 
- * @author badan 
+ * @author Phil9175 
  *
  */
 public class UrlFilter implements Filter {

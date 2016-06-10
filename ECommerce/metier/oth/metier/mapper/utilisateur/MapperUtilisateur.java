@@ -14,7 +14,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * Mapper des DTO liés à l'utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 

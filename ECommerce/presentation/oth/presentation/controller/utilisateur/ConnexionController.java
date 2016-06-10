@@ -21,7 +21,7 @@ import oth.presentation.validator.ConnexionValidator;
 /**
  * Controlleur pour l'écran de connexion.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

@@ -30,7 +30,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * Class de test pour le service utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)

@@ -15,7 +15,7 @@ import oth.presentation.validator.ConnexionValidator;
 /**
  * Test de ConnexionValidator
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class ConnexionValidatorTest {

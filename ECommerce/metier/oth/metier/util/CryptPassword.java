@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * Classe pour le cryptage des mots de passe.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public abstract class CryptPassword {

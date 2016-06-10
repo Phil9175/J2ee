@@ -25,7 +25,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Dao pour l'utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Repository

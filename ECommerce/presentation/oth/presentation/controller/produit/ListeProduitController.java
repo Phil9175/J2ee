@@ -24,7 +24,7 @@ import oth.presentation.validator.ListeProduitValidator;
 /**
  * Controlleur pour l'écran de listing des produits.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

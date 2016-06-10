@@ -17,7 +17,7 @@ import oth.presentation.controller.AccessValidator;
 /**
  * Controlleur pour supprimer un produit selon sa référence d'un produit.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

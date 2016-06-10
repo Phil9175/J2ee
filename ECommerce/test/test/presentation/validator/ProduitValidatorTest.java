@@ -14,7 +14,7 @@ import oth.presentation.validator.ProduitValidator;
 /**
  * Test de ProductValidator
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class ProduitValidatorTest {

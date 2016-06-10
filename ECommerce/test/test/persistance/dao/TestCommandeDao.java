@@ -35,7 +35,7 @@ import oth.persistance.exception.DaoException;
 /**
  * Classe de test des commandes.
  * 
- * @author badane
+ * @author Phil9175
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = { "classpath:/testing/testingContext.xml" })

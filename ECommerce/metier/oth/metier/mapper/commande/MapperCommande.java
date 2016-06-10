@@ -18,7 +18,7 @@ import oth.presentation.dto.commande.bean.CommandeProduitDto;
 /**
  * Mapper des DTO liés aux commandes.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 

@@ -5,7 +5,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * DTO d'un élément de panier.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class ElementPanierDto {

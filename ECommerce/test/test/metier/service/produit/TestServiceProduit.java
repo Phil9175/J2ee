@@ -18,7 +18,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * Class de test pour le service produit.
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)

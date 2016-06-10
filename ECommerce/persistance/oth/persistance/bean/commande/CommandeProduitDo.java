@@ -20,7 +20,7 @@ import oth.persistance.bean.produit.ProduitDo;
 /**
  * DO associé à la table CommandeProduit.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Entity(name = "CommandeProduitDo")

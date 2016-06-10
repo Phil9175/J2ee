@@ -19,7 +19,7 @@ import oth.presentation.dto.utilisateur.ListeUtilisateurDto;
 /**
  * Controlleur pour l'écran de liste des utilisateur.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

@@ -25,7 +25,7 @@ import oth.presentation.validator.ProduitValidator;
 /**
  * Controlleur pour l'écran de l'ajout de produit.
  * 
- * @author badan
+ * @author Phil9175
  */
 @Controller
 @RequestMapping("/ajouterProduit")

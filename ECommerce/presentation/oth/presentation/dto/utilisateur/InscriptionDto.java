@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * DTO de l'inscription.
  * 
- * @author Badan
+ * @author Phil9175
  * 
  */
 public class InscriptionDto {

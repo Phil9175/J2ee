@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 /**
  * Validateur pour les champs plus complexes
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public abstract class ValidatorPattern {

@@ -3,7 +3,7 @@ package oth.presentation.dto.commande.bean;
 /**
  * DTO d'un CommandeProduit.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class CommandeProduitDto {

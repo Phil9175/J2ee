@@ -18,7 +18,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * Tests pour les fonctions de mapping DO / DTO liées au produit.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)

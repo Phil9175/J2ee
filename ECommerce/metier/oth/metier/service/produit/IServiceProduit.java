@@ -7,7 +7,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Interface du service métier produit.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public interface IServiceProduit {

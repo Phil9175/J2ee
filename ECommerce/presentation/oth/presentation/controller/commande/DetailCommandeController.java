@@ -18,7 +18,7 @@ import oth.presentation.dto.commande.bean.CommandeDto;
 /**
  * Controlleur pour l'écran de détail de commande.
  * 
- * @author badan 
+ * @author Phil9175 
  * 
  */
 @Controller

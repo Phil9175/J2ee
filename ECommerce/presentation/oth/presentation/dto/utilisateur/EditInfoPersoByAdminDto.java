@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * DTO de l'édition d'information par l'administrateur.
  * 
- * @author badane
+ * @author Phil9175
  * 		
  */
 public class EditInfoPersoByAdminDto {

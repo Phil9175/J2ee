@@ -9,7 +9,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * DTO de la liste des utilisateurs.
  * 
- * @author badan 
+ * @author Phil9175 
  *
  */
 public class ListeUtilisateurDto {

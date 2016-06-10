@@ -31,7 +31,7 @@ import oth.presentation.validator.PanierValidator;
 /**
  * Controlleur pour l'écran de gestion du panier.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

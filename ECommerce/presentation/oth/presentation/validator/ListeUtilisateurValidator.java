@@ -11,7 +11,7 @@ import oth.presentation.dto.utilisateur.ListeUtilisateurDto;
 /**
  * Validateur pour l'affichage de la liste des utilisateurs
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Component

@@ -11,7 +11,7 @@ import oth.presentation.dto.panier.PanierDto;
 /**
  * Implémentation du service métier panier.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Service("servicePanier")

@@ -11,7 +11,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * Mapper des DTO liés au produit.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 

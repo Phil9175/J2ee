@@ -9,7 +9,7 @@ import oth.presentation.dto.utilisateur.EditInfoPersoByAdminDto;
 /**
  * Validateur du formulaire EditInfoPersoByAdmin
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @Component

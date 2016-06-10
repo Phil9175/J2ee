@@ -12,7 +12,7 @@ import oth.presentation.controller.AbstractGlobals;
 /**
  * Controlleur pour la déconnexion.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

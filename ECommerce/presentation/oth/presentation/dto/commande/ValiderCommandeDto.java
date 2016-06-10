@@ -6,7 +6,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * DTO de la validation de commande.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class ValiderCommandeDto {

@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Classe permettant de vérifier si un rôle à le droit d'afficher une page
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 public abstract class AccessValidator {

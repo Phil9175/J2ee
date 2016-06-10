@@ -4,7 +4,7 @@ package oth.presentation.controller;
  * Contient l'ensemble des noms d'attributs stockés en session, noms de messages
  * (erreur / information) dans le model et des noms des pages tiles.
  * 
- * @author badan
+ * @author Phil9175
  *
  */
 public abstract class AbstractGlobals {

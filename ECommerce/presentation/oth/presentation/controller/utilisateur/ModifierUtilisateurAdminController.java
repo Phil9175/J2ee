@@ -27,7 +27,7 @@ import oth.presentation.validator.EditInfoPersoByAdminValidator;
 /**
  * Controlleur pour l'écran de modification d'utilisateur par administrateur.
  * 
- * @author badan
+ * @author Phil9175
  * 		
  */
 @Controller

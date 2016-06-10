@@ -22,7 +22,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * Classe de test pour le mapperUtilisateur
  * 
- * @author badane
+ * @author Phil9175
  */
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class TestMapperUtilisateur {

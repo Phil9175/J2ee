@@ -7,7 +7,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * DTO pour la gestion des produits.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class GestionProduitDto {

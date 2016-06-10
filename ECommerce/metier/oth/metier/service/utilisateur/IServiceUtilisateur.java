@@ -12,7 +12,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * Interface du service métier utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public interface IServiceUtilisateur {

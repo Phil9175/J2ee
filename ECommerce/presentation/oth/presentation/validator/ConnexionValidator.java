@@ -9,7 +9,7 @@ import oth.presentation.dto.utilisateur.ConnexionDto;
 /**
  * Validateur du formulaire Connexion
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Component

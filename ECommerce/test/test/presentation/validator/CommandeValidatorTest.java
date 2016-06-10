@@ -15,7 +15,7 @@ import oth.presentation.validator.CommandeValidator;
 /**
  * Test de CommandeValidator
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class CommandeValidatorTest {

@@ -18,7 +18,7 @@ import oth.presentation.dto.produit.bean.ProduitDto;
 /**
  * Controlleur pour l'écran de détail produit.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

@@ -19,7 +19,7 @@ import oth.presentation.validator.InscriptionValidator;
 /**
  * Test de InscriptionValidator
  * 
- * @author badane
+ * @author Phil9175
  *		
  */
 public class InscriptionValidatorTest {

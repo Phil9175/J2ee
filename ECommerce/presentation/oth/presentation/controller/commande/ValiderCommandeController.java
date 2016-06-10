@@ -22,7 +22,7 @@ import oth.presentation.validator.CommandeValidator;
 /**
  * Controlleur pour l'écran de la validation de commande.
  * 
- * @author badan
+ * @author Phil9175
  * 
  */
 @Controller

@@ -3,7 +3,7 @@ package oth.metier.service;
 /**
  * Objet de réponse de service suite à un appel.
  * 
- * @author badane.
+ * @author Phil9175.
  *
  */
 public class ServiceResponse {

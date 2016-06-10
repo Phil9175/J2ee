@@ -9,7 +9,7 @@ import oth.presentation.dto.utilisateur.InscriptionDto;
 /**
  * Validateur du formulaire Inscription.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Component

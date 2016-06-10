@@ -12,7 +12,7 @@ import oth.presentation.dto.tri.SortByType;
 /**
  * Interface du Dao utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public interface IUtilisateurDao extends IGenericDao<UtilisateurDo> {

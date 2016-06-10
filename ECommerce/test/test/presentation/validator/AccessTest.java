@@ -20,7 +20,7 @@ import oth.presentation.controller.AccessValidator;
 /**
  * Classe de test pour AccessValidator
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)

@@ -30,7 +30,7 @@ import oth.presentation.dto.utilisateur.bean.UtilisateurDto;
 /**
  * Implémentation du service métier utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  * 
  */
 @Service("serviceUtilisateur")

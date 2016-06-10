@@ -3,7 +3,7 @@ package oth.persistance.exception;
 /**
  * Classe d'exception pour les problèmes liés aux DAO.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public class DaoException extends Exception {

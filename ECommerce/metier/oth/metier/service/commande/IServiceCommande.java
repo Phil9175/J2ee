@@ -6,7 +6,7 @@ import oth.presentation.dto.commande.ValiderCommandeDto;
 /**
  * Interface du service métier commande.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 public interface IServiceCommande {

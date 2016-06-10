@@ -7,7 +7,7 @@ import oth.persistance.exception.DaoException;
 /**
  * Interface générique pour les DAO.
  * 
- * @author badane
+ * @author Phil9175
  *
  * @param <T>
  *            Le DO associé.

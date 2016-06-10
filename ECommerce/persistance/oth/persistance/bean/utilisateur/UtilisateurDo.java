@@ -27,7 +27,7 @@ import oth.persistance.bean.commande.CommandeDo;
 /**
  * DO associé à la table utilisateur.
  * 
- * @author badane
+ * @author Phil9175
  *
  */
 @Entity(name = "UtilisateurDo")
