@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+
+	<!-- ################################### -->
+	<!-- USER PAGES -->
+	<!-- ################################### -->
+
+	<!-- Inscription -->
+	<definition name="inscription" extends="base.definition">
+		<put-attribute name="title" value="inscription.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/user/inscription.jsp"></put-attribute>
+	</definition>
+
+	<!-- Connexion -->
+	<definition name="connexion" extends="base.definition">
+		<put-attribute name="title" value="connexion.page.titre"></put-attribute>
+		<put-attribute name="body" value="/WEB-INF/views/user/connexion.jsp"></put-attribute>
+	</definition>
+
+	<!-- Mon compte -->
+	<definition name="monCompte" extends="base.definition">
+		<put-attribute name="title" value="monCompte.page.titre"></put-attribute>
+		<put-attribute name="body" value="/WEB-INF/views/user/monCompte.jsp"></put-attribute>
+	</definition>
+
+	<!-- modifierUtilisateur -->
+	<definition name="modifierUtilisateur" extends="base.definition">
+		<put-attribute name="title" value="modifierUtilisateur.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/user/modifierUtilisateur.jsp"></put-attribute>
+	</definition>
+
+	<!-- ################################### -->
+	<!-- PRODUCT PAGES -->
+	<!-- ################################### -->
+	<!-- detailProduit -->
+
+	<definition name="detailProduit" extends="base.definition">
+		<put-attribute name="title" value="detailProduit.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/produit/detailProduit.jsp"></put-attribute>
+	</definition>
+
+	<!-- Liste Produit -->
+	<definition name="accueil" extends="base.definition">
+		<put-attribute name="title" value="listeProduit.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/produit/listeProduit.jsp"></put-attribute>
+	</definition>
+
+	<!-- ################################### -->
+	<!-- PANIER PAGES -->
+	<!-- ################################### -->
+
+	<!-- panier -->
+	<definition name="panier" extends="base.definition">
+		<put-attribute name="title" value="panier.page.titre"></put-attribute>
+		<put-attribute name="body" value="/WEB-INF/views/panier/panier.jsp"></put-attribute>
+	</definition>
+
+	<!-- ################################### -->
+	<!-- COMMANDE PAGES -->
+	<!-- ################################### -->
+
+	<!-- detailCommande -->
+	<definition name="detailCommande" extends="base.definition">
+		<put-attribute name="title" value="detailCommande.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/commande/detailCommande.jsp"></put-attribute>
+	</definition>
+
+	<!-- listeCommande -->
+	<definition name="listeCommande" extends="base.definition">
+		<put-attribute name="title" value="listeCommande.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/commande/listeCommande.jsp"></put-attribute>
+	</definition>
+
+	<!-- listeCommande -->
+	<definition name="validerCommande" extends="base.definition">
+		<put-attribute name="title" value="validerCommande.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/commande/validerCommande.jsp"></put-attribute>
+	</definition>
+
+	<!-- ################################### -->
+	<!-- ADMIN PAGES -->
+	<!-- ################################### -->
+
+	<!-- Liste des utilisateurs -->
+	<definition name="listeUtilisateur" extends="base.definition">
+		<put-attribute name="title" value="listeUtilisateur.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/listeUtilisateur.jsp"></put-attribute>
+	</definition>
+
+	<!-- Modifier un utilisater par l'admin -->
+	<definition name="modifierUtilisateurAdmin" extends="base.definition">
+		<put-attribute name="title" value="modifierUtilisateurAdmin.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/modifierUtilisateurAdmin.jsp"></put-attribute>
+	</definition>
+
+	<!-- Ajouter un produt -->
+	<definition name="ajouterProduit" extends="base.definition">
+		<put-attribute name="title" value="ajouterProduit.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/ajouterProduit.jsp"></put-attribute>
+	</definition>
+
+	<!-- gestionProduit -->
+	<definition name="gestionProduit" extends="base.definition">
+		<put-attribute name="title" value="gestionProduit.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/gestionProduit.jsp"></put-attribute>
+	</definition>
+
+	<!-- modifierProduit -->
+	<definition name="modifierProduit" extends="base.definition">
+		<put-attribute name="title" value="modifierProduit.page.titre"></put-attribute>
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/modifierProduit.jsp"></put-attribute>
+	</definition>
+
+</tiles-definitions>
