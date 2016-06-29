@@ -19,14 +19,14 @@
 		<form:form method="POST" modelAttribute="connexionDto"
 			action="${pageContext.request.contextPath}/connexion" class="form-horizontal">
 
-			<form:errors path="*" cssClass="errorblock" element="div" />
+			<form:errors path="*" cssClass="alert alert-danger" element="div" />
 
 
 			<div class="form-group">
 				<label class="control-label col-sm-2"><spring:message
 						code="connexion.form.login" /></label>
 				<div class="col-sm-10">
-					<form:input path="login" />
+					<form:input path="login" class="form-control" />
 					<form:errors path="login" cssClass="error" />
 				</div>
 			</div>
@@ -34,33 +34,27 @@
 				<label class="control-label col-sm-2"><spring:message
 						code="connexion.form.motdepasse" /> :</label>
 				<div class="col-sm-10">
-					<form:password path="motDePasse" />
+					<form:password path="motDePasse" class="form-control" />
 					<form:errors path="motDePasse" cssClass="error " />
 				</div>
 			</div>
 
-			<div class="col-sm-offset-2 col-sm-10">
-
-				<input type="submit"
+			<div class="form-group">
+				
+				<div class="col-sm-12 col-md-4 col-md-offset-2">
+					<input type="submit"
 					value="<spring:message
 								code="connexion.form.submit" />"
-					class="btn btn-info" />
+					class="btn btn-primary" />
+				</div>
 			</div>
 		</form:form>
-	</div>
-	<div>
-		<div class="col-sm-offset-2 col-sm-10">
+		
+		<div class="col-sm-12 col-md-4 col-md-offset-2">
 			Pas encore membre ?
 			<p>
-				<a href="${pageContext.request.contextPath}/inscription">Inscrivez-vous
-					maintenant !</a>
-			<p>
-		</div>
-		<div class="col-sm-offset-2 col-sm-10">
-			Mot de pass oublié ?
-			<p class="pp">Veuillez contacter l'administrateur du site à
-				l'adresse suivante admin@vlt.com ?</p>
-
+				<a href="${pageContext.request.contextPath}/inscription">S'inscrire !</a>
+			</p>
 		</div>
 	</div>
 </div>

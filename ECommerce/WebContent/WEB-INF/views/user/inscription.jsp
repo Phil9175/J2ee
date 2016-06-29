@@ -11,7 +11,7 @@
 	<div class="panel-body">
 		<form:form method="POST" modelAttribute="inscriptionDto"
 			action="${pageContext.servletContext.contextPath}/inscription" class="form-horizontal">
-			<form:errors path="*" cssClass="errorblock" element="div" />
+			<form:errors path="*" cssClass="alert alert-danger" element="div" />
 
 			<div class="form-group">
 				<label class="control-label col-sm-2"><spring:message

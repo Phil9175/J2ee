@@ -28,7 +28,7 @@
 
 			<spring:message code="listeProduit.filtre.page" />
 			<form:input path="page" />
-			<form:errors path="page" cssClass="error" />
+			<form:errors path="page" cssClass="alert alert-danger" />
 
 			<input type="submit"
 				value='<spring:message	code="listeProduit.filtre.boutton" />'

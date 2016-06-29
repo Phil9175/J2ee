@@ -9,7 +9,7 @@
 <body>
 	<div class="container">
 		<hr />
-		<p>Copyright 2015-2016 Vente en ligne</p>
+		<p>Copyright ECommerce - Projet ESGI 2016</p>
 
 	</div>
 </body>

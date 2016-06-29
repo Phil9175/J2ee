@@ -58,7 +58,6 @@ public class ProduitDo implements Serializable {
 	 */
 	public ProduitDo() {
 		super();
-
 	}
 
 	/**

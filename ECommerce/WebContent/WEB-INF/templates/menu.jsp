@@ -2,14 +2,6 @@
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 
-<div class="span6 pull-right" style="text-align: right">
-	<spring:url value="/resources/anglais.jpg" var="angl" />
-	<spring:url value="/resources/francais.jpg" var="fran" />
-	<a href="${urlByFilter}?lang=en"><img src="${angl}"
-		style="width: 23px; height: 19px;" border="0"></a> <a
-		href="${urlByFilter}?lang=fr"><img src="${fran}"
-		style="width: 23px; height: 19px;" border="0"></a>
-</div>
 <!--${requestScope['javax.servlet.forward.request_uri']}  -->
 <hr />
 
@@ -17,7 +9,7 @@
 	<div class="container-fluid">
 		<div class="navbar-header">
 			<a href="${pageContext.servletContext.contextPath}/accueil"
-				class="navbar-brand">Vente en ligne</a>
+				class="navbar-brand">ECommerce</a>
 		</div>
 		<div>
 			<ul class="nav navbar-nav">
@@ -60,14 +52,16 @@
 
 <c:if
 	test="${sessionScope.errorMsg != null and sessionScope.errorMsg != ''}">
-	<div class="errorblock">
+	<div class="alert alert-danger alert-dismissible" role="alert">
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 		<spring:message code="${sessionScope.errorMsg}" />
 	</div>
 	<c:remove var="errorMsg" />
 </c:if>
 <c:if
 	test="${sessionScope.informationMsg != null and sessionScope.informationMsg != ''}">
-	<div class="informationBlock">
+	<div class="alert alert-success alert-dismissible" role="alert">
+		<button type="button" class="close" data-dismiss="alert" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
 		<spring:message code="${sessionScope.informationMsg}" />
 	</div>
 	<c:remove var="informationMsg" />
